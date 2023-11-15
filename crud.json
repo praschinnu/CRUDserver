@@ -1,0 +1,43 @@
+{
+  "details": [
+    {
+      "name": "manu",
+      "email": "manu@gmail.com",
+      "num": "8156931888",
+      "age": "25",
+      "gender": "Male",
+      "category": "romantic",
+      "id": 7
+    },
+    {
+      "name": "rijo",
+      "email": "rijomartin@gmail.com",
+      "num": "9846500529",
+      "age": "29",
+      "gender": "Male",
+      "category": "thriller",
+      "id": 8
+    },
+    {
+      "name": "honey",
+      "email": "honeykim@gmail.com",
+      "num": "9207540528",
+      "age": "27",
+      "gender": "Female",
+      "category": "action",
+      "id": 9
+    },
+    {
+      "name": "misrii",
+      "email": "misrikim@gmail.com",
+      "num": "9207540528",
+      "age": "27",
+      "gender": "Female",
+      "category": "action",
+      "id": 10
+    },
+    {
+      "id": 11
+    }
+  ]
+}
